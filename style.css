@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.btn-wsp{
+    position: fixed;
+    width: 55px;
+    height: 55px;
+    bottom: 75px;
+    right: 30px;
+    z-index: 100;
+}
+
+.btn-wsp:hover{
+    bottom: 70px;
+    right: 25px;
+    
+}
+
+.menu-item{
+    margin-right: 10px;
+    color: black;
+    background-color: white;
+    text-decoration: none;
+    font-size: x-large;
+}
+a:hover{
+    background-color: salmon;
+    color: white;
+}
